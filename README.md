@@ -1,0 +1,1 @@
+# Sidub.Platform.Authorization.IsolatedFunction
