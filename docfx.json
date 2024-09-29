@@ -1,0 +1,16 @@
+{
+  "metadata": [
+    // Filter...
+    {
+      "src": [
+        {
+          "files": [ "**/*.csproj" ],
+          "exclude": [ "**/bin/**", "**/obj/**" ],
+          "src": "./Authorization.IsolatedFunction/"
+        }
+      ],
+      "dest": "./_DocFX/Authorization.IsolatedFunction/",
+      "shouldSkipMarkup": false
+    }
+  ]
+}
